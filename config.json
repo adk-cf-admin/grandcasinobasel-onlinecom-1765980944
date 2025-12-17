@@ -1,0 +1,201 @@
+{
+    "de-CH": {
+        "styles": {
+            "bg": "#FFFFFF",
+            "lang-select-color": "#222829",
+            "bg-light": "#383838",
+            "welcome-bonus-bg": "#FFFFFF",
+            "top-games-hover-fg": "#0c0d0c",
+            "main-bg": "#F5F5F6",
+            "text": "#222829",
+            "text-black": "#ffffff",
+            "table-head": "#B21754",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#F29302",
+            "yellow": "#B21754",
+            "yellow-button": "#F29302",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#FFFFFF",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "pay-back": "#deeadf",
+            "providers-back": "#B21754",
+            "faq-label": "#FFFFFF",
+            "bg-footer": "#383838",
+            "copyright": "#e7e7d5",
+            "starColor": "#B21754",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "Grand Casino Basel",
+            "title": "Grand Casino Basel: Spiele, Jackpots, Hangar9 & Events",
+            "description": "Offizieller Guide: Öffnungszeiten, Top‑Spiele & Jackpots, Restaurant Hangar9, Casino Bars & Metro Club, Events & Tickets. Gratis Eintritt & Parkplätze.",
+            "canonical": "grandcasinobasel-online.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1095",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "grandcasinobasel-online.com",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1096",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1097"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1099",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Grand Casino Basel Logo"
+        },
+        "nav": {
+            "signUp": "Registrieren",
+            "playNow": "Jetzt spielen"
+        },
+        "hero": {
+            "title": "Grand Casino Basel – Spiele, Jackpots & Nightlife",
+            "textDesktop": "Exklusives Willkommensangebot von",
+            "textMobile": "Exklusives Willkommensangebot von",
+            "playGame": "Spiel starten",
+            "claimBonus": "Bonus sichern",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1102",
+            "imageSizeModifier": 5,
+            "imageYModifier": -3,
+            "imageXModifier": -3,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1103",
+            "mobileImageSizeModifier": 0,
+            "mobileImageYModifier": 1,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Bonus sichern",
+            "title": "Top-Casino",
+            "allCasino": "Alle Casino",
+            "welcomeBonusText": "Willkommensbonus"
+        },
+        "bonusDetails": {
+            "title": "Bonusdetails",
+            "getBonusButtonText": "Bonus erhalten",
+            "maximumAmountText": "Maximalbetrag",
+            "wagerText": "Umsatz",
+            "bonusCodeText": "Bonuscode",
+            "casino": "Casino",
+            "bonuses": "Boni",
+            "rate": "Bewertung",
+            "freeSpins": "Freispiele",
+            "moreInfo": "Mehr Infos",
+            "get": "Erhalten",
+            "refresh": "Aktualisieren"
+        },
+        "advantages": {
+            "title": "Vorteile",
+            "advantagesBeforeText": "",
+            "items": [
+                "Über 300 Slots und Videopoker täglich.",
+                "Klassische Tische: Roulette, Blackjack, Ultimate Hold’em.",
+                "Swiss Jackpot – Gewinne schon ab 1 CHF. [grandcasinobasel.com]",
+                "Ultimate Texas Hold’em an aktiven Live‑Tischen.",
+                "Täglich 10:00–05:00, Tische ab 16:00 geöffnet. ",
+                "Gratis Eintritt und kostenlose Parkplätze für Gäste.",
+                "Direkt verbunden mit dem Airport Hotel Basel."
+            ],
+            "advantagesAfterText": "Die Kombination aus grossem Spielangebot, langen Öffnungszeiten und direkter Hotelanbindung macht das Grand Casino Basel zur starken Wahl für Weekend‑Trips und für Jackpot‑Jäger wie auch Liebhaber klassischer Tischspiele.",
+            "knowMore": "Mehr erfahren",
+            "appTitle": "Grand Casino Basel App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1104",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "Grand Casino Basel App",
+            "mobileGooglePlayImageTitle": "Grand Casino Basel App",
+            "mobileIosImageTitle": "Grand Casino Basel App"
+        },
+        "games": {
+            "playNowText": "Jetzt spielen",
+            "title": "Beliebte Spiele",
+            "allGames": "Alle Spiele"
+        },
+        "about": {
+            "history": {
+                "title": "Über Grand Casino Basel",
+                "description1": "",
+                "items": [
+                    "Gewinn 5,6 Mio. CHF.",
+                    "Swiss Jackpot: 1 CHF.",
+                    "Zehn Swiss‑Jackpot‑Automaten vor Ort."
+                ],
+                "description2": "Das Grand Casino Basel ist ein modernes Casino im Dreiländereck. Es verbindet klassische Tischspiele mit vielfältigen Slots. Die Atmosphäre ist stilvoll und gastfreundlich für Einsteiger und Profis. Der Eintritt funktioniert unkompliziert, der Service ist aufmerksam. Vor Ort gibt es Bars und ein Restaurant mit internationaler Küche. ",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1105",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": "Das Casino ist direkt mit einem Hotel verbunden und erleichtert ein Casino‑Weekend. Gäste schätzen den lockeren Dresscode und bequeme Lounge‑Bereiche. Themenabende, Konzerte und spezielle Events sorgen für Abwechslung. Getrennte Bereiche für Nichtraucher und Raucher sind vorhanden. Es ist ein praktischer Ausgangspunkt für Unterhaltung im Grenzgebiet."
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "Grand Casino Basel: Stil, Rhythmus und Vorteile unter einem Dach",
+                "description": "<p>\nDas Grand Casino Basel liegt im Dreiländereck und verbindet die entspannte Basler Lebensart mit einer eleganten, modernen Casino‑Inszenierung. Das Ambiente ist bewusst stilvoll gehalten: genug Licht, Raum und Service, um sowohl einen kurzen Apéro als auch einen langen Abend an den Tischen oder eine spontane Weekend‑Auszeit stimmig zu begleiten.\n<\/p>\n<br>\n<p>\nDie Öffnungszeiten sind auf Nachteulen zugeschnitten: täglich geöffnet von morgens bis in die frühen Morgenstunden, mit Slots ab 10:00 Uhr und Live‑Tischen ab 16:00 Uhr; das Restaurant serviert durchgehend ab Mittag. Der Eintritt ist ab 18 Jahren und mit gültigem Ausweis möglich, der Dresscode ist locker, allerdings ohne Sporthosen, Flip‑Flops oder ärmellose Shirts für Herren. So bleibt der Besuch unkompliziert planbar.\n<\/p>\n<br>\n<p>\nZwei Bars setzen Akzente: eine bei den Tischspielen im ersten Obergeschoss, eine in der Slot‑Zone auf Ebene minus zwei. Kulinarisch übernimmt das Restaurant Hangar9 mit internationaler Küche und durchgehendem Service ab 12:00 Uhr, ideal für Lunch, Early Dinner oder einen späten Happen zwischen zwei Spielphasen. Das Zusammenspiel von Bar, Küche und Spiel schafft nahtlose Übergänge.\n<\/p>\n<br>\n<p>\nEin grosser Praxisvorteil ist die direkte Verbindung zum Airport Hotel Basel im selben Komplex. Das erleichtert Casino‑Weekends, späte Rückzüge nach langen Nächten und die An‑ bzw. Abreise über den nahen EuroAirport. Gerade für Festival‑Teilnehmende und Event‑Gäste ist diese Kompaktheit ein Plus.\n<\/p>\n<br>\n<p>\nUnterhaltung geht über das Spiel hinaus: Das Haus bespielt Partys, Konzerte und Special Events; wandelbare Säle erlauben Formate vom Showabend bis zum Turnier. 2025 war das Grand Casino Basel erstmals Gastgeber der renommierten Swiss Poker Series – ein klares Signal für die Event‑Kompetenz des Standorts. Die Club‑Atmosphäre liefert zusätzlich Schwung für den ganzen Abend.\n<\/p>\n<br>\n<p>\nBei Vorteilen und Anreizen setzt das Casino auf Klarheit und erlebbare Mehrwerte. Vor Ort stehen progressive, mehrstufige und verbundene Jackpots zur Verfügung – inklusive Swiss Jackpot –, deren aktuelle Stände in der Spielzone angezeigt werden. Ergänzend bieten «Vouchers & Casino Experiences» kulinarische und erlebnisorientierte Pakete, die sich gut mit einem Casinobesuch kombinieren lassen.\n<\/p>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nGrand Casino Basel: Sprache, Bezahlung, Bargeld und Umtausch\n<\/h3>\n\n<p>\nIm Grand Casino Basel ist die Kommunikation unkompliziert: Das Personal spricht Deutsch, Englisch, Französisch und Italienisch – ein klarer Vorteil im Dreiländereck und für internationale Gäste, vom Eintritt über Spielbereiche bis hin zu Bar und Restaurant.\n<\/p>\n<br>\n<p>\nBeim Bezahlen bleibt alles transparent: Akzeptiert werden Bargeld sowie gängige Karten, inklusive Kreditkarten und EC\/Maestro; dies bestätigt das Tourismusportal der Stadt Basel. Für Poker‑Festivals gilt zusätzlich: Karten werden an der Kasse zum Kauf von Chips genutzt, danach erfolgt die Turnierregistrierung – ein Standardprozess bei PokerStars Live in Basel.\n<\/p>\n<br>\n<p>\nBargeldbezug ist jederzeit möglich: Am Standort Flughafenstrasse 225 befindet sich ein 24\/7‑Bancomat der Basler Kantonalbank (BKB), sodass Sie direkt im Casino CHF abheben können, ohne das Gelände zu verlassen.\n<\/p>\n<br>\n<p>\nDer Währungswechsel ist komfortabel gelöst: Während grosser Events bestätigen die Organisatoren den EUR‑zu‑CHF‑Tausch an der Casinokasse; ausserhalb von Festivals stehen zahlreiche Wechselmöglichkeiten in Basel bereit – etwa an Flughäfen, SBB‑Bahnhöfen, Banken und in grossen Hotels, wie es in der Schweiz üblich ist.\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBesuchsregeln im Grand Casino Basel: Eintritt, Dresscode, Verbote & Anreise\n<\/h3>\n\n<p>\nIm Grand Casino Basel gilt ein lockerer, aber gepflegter Dresscode: Abendgarderobe ist willkommen, jedoch nicht Pflicht; das Team achtet auf die Einhaltung der Kleidungsvorschriften.  Der Eintritt ist ausschliesslich ab 18 Jahren und mit gültigem Ausweis möglich.  Slots sind täglich ab 10:00 Uhr geöffnet, Live‑Tische starten ab 16:00 Uhr – ideal für flexible Abendplanung.  Nicht gestattet sind Flip‑Flops, Badebekleidung, ärmellose Shirts für Herren, Jogginghosen sowie Kleidung mit provokanten Botschaften.  Der Eintritt ist gratis, und vor Ort stehen kostenlose Parkplätze zur Verfügung.  Rauchen ist nur in ausgewiesenen Bereichen gestattet; Teile der Multiroulette‑Terminals liegen in einer separaten Raucherzone.  Bei laufenden Spielsperren ist der Zugang nicht möglich; seit dem 7. Januar 2025 werden Sperren zwischen der Schweiz und Liechtenstein gegenseitig anerkannt.  Die Anreise ist bequem: nächster Flughafen ist der EuroAirport Basel‑Mulhouse‑Freiburg, die Anbindung aus der Innenstadt erfolgt über Autobahnen und ÖV.  An Feiertagen können «Sonderöffnungszeiten» gelten – prüfen Sie die «Visit»-Seite.  Das Restaurant Hangar9 serviert ab Mittag, ideal für Lunch oder Dinner vor bzw. nach dem Spiel.  Das Personal kommuniziert auf Deutsch, Englisch, Französisch und Italienisch, was den Ablauf am Eingang und im Saal erleichtert. \n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nDresscode\n<\/h4>\n\n <ul>\n            <li>• \nLocker, sauber und gepflegt; Abendkleidung nach Wunsch.\n<\/li>\n            <li>• \nNicht erlaubt: Flip‑Flops, Badebekleidung, ärmellose Herren‑Shirts, Jogginghosen, provokative Slogans; das Team weist auf die Regeln hin.\n<\/li>\n            \n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nEintrittsbedingungen\n<\/h4>\n\n <ul>\n            <li>• \n Mindestalter 18+, Ausweiskontrolle (Pass\/ID\/Führerausweis).\n<\/li>\n            <li>• \nSlots ab 10:00 Uhr, Live‑Tische ab 16:00 Uhr; täglich bis in die frühen Morgenstunden geöffnet.\n<\/li>\n            <li>• \nGratis Eintritt.\n<\/li>\n            <li>• \nSpielsperren (CH\/FL) werden gegenseitig anerkannt; kein Zugang bei aktiver Sperre.\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nVerbote\n<\/h4>\n\n <ul>\n            <li>• \nZugang in nicht regelkonformer Kleidung ist untersagt; Zutrittsverweigerung möglich.\n<\/li>\n            <li>• \nRauchen ausserhalb der ausgewiesenen Bereiche ist nicht gestattet.\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nParkieren & Anreise\n<\/h4>\n\n <ul>\n            <li>• \nKostenlose Parkplätze direkt am Casino.\n<\/li>\n            <li>• \nAdresse: Flughafenstrasse 225, Basel; Anreise über A2\/A3\/A35\/A5 sowie ÖV und vom EuroAirport.<\/li>\n            <li>• \nPrüfen Sie an Feiertagen die «Visit»-Seite für Sonderzeiten.\n<\/li>\n\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nLoyalitätsprogramm im Grand Casino Basel: Vorteile, Registrierung und Boni\n\n<\/h3>\n\n<p>\nIm landbasierten Grand Casino Basel steht nicht eine klassische Karten‑Hierarchie im Vordergrund, sondern Gutscheine und Erlebnis‑Pakete (Dinner & Casino, Queen’s Night, King’s Night, Cocktail Workshop u. a.), die online gekauft und mit dem Casinobesuch sowie Hangar9 kombiniert werden. Das ist eine sichtbare, öffentlich zugängliche «Loyalität über Erlebnisse»: Sie wählen Wert und Format, das Casino liefert Service, lange Öffnungszeiten und mehrsprachige Betreuung. \nEine Casino Card wird bei Bedarf vor Ort erstellt (z. B. bei PokerStars‑Live‑Events), was Registrierung und Zahlungen beschleunigt. \nDie separate Online‑Plattform Golden Grand des Grand Casino Basel bot historisch einen Willkommens‑Pack bis CHF 900 sowie CHF 30 No‑Deposit, hat den Betrieb aber am 31. Juli 2025 eingestellt; der Betreiber konzentriert sich seither auf das Offline‑Erlebnis. Wer konkrete Bonuszahlen sucht, kann diese bestätigten Werte als Referenz für das Ausmass früherer Angebote derselben Betreiberin nutzen. \nOffline zählen klare Besuchsregeln (18+, Ausweis, lockerer, aber gepflegter Dresscode), gratis Eintritt und kostenloses Parkieren; das Event‑Programm umfasst Partys, Shows und Dinner‑Formate, und Gutscheine erlauben eine individuelle Abendplanung sowie Geschenk‑Cases. \nIn Summe entsteht eine verständliche Service‑Loyalität: lange Öffnungszeiten, einfacher Eintritt, flexible Pakete, Essen & Drinks und schnelle Kommunikation auf DE\/EN\/FR\/IT. \nWer eine Pokerwoche oder ein Firmenevent plant, profitiert von der Casino‑Card beim Check‑in und von Gutscheinen für Kulinarik und Teile des Abendprogramms. \nFür Gäste mit Fokus auf Zahlen geben die historischen Golden‑Grand‑Konditionen einen Eindruck der Bonus‑Breite; offline bleibt das Format paket‑ und event‑basiert, ohne veröffentlichte Statusleiter.\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nRegistrierungsbedingungen (offline & online)\n\n\n<\/h4>\n\n <ul>\n            <li>• \nOffline: Zutritt ab 18 mit gültigem Ausweis; bei Bedarf wird eine Casino Card erstellt (z. B. für PokerStars‑Live‑Registrierungen).\n<\/li>\n            <li>• \nOnline (Golden Grand, historisch): KYC‑Verifizierung nach Schweizer Recht, Konten in CHF; die Plattform stand unter ESBK‑Aufsicht (Airport Casino Basel AG). \n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nStufen\/Levels und Erwerb\n\n<\/h4>\n\n <ul>\n            <li>• \nOffline: Auf der offiziellen Seite ist keine mehrstufige, öffentlich dokumentierte Status‑Leiter (Bronze\/Silver\/Gold etc.) ausgewiesen; Fokus liegt auf Gutscheinen\/Erlebnissen und Events.\n<\/li>\n            <li>• \nOnline (historisch): statt Levels gab es einen mehrteiligen Willkommens‑Pack; VIP‑Stufen sind in frei zugänglichen Review‑Quellen nicht detailliert.\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAlle verfügbaren Boni\n<\/h4>\n<p>\nGolden Grand online (historisch, bestätigte Werte)\n<\/p>\n\n <ul>\n            <li>• \nCHF 30 No‑Deposit nach Registrierung und schneller Verifizierung; bei späterer Verifizierung (nach 7 Tagen) CHF 15. Wager 35×, Frist 30 Tage.\n<\/li>\n            <li>• \n1. und 3. Einzahlung: 100% bis CHF 300; 2. Einzahlung: 50% bis CHF 300; Mindest‑Deposits CHF 20 \/ CHF 50 \/ CHF 100; Wager 35×, Frist 30 Tage. Gesamtes Willkommenspaket bis CHF 900.\n<\/li>\n            <li>• \nBoni in CHF; Slots zählen 100%, Tischspiele 10% beim Umsatz.\n<\/li>\n            <li>• \nHinweis: Online‑Service beendet; Zahlen dienen als Referenz.\n<\/li>\n\n        <\/ul><br>\n\n<p>\nOffline, aktuell\n<\/p>\n\n<ul>\n            <li>• \nVouchers & Casino Experiences: Dinner & Casino, Queen’s Night, King’s Night, Cocktail Workshop, Fondueplausch sowie Wertgutscheine für Hangar9; Auswahl und Nennwert im offiziellen Shop.\n<\/li>\n            <li>• \nGratis Eintritt & kostenlose Parkplätze als dauerhafte Vorteile vor Ort.\n<\/li>\n\n        <\/ul><br>\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Softwareanbieter"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Unterhaltung und Gaming im Grand Casino Basel",
+                "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nBoni, Gewinne & Specials im Grand Casino Basel: Jackpots, Turniere, Saison‑Events\n<\/h3>\n\n<p>\nDas Grand Casino Basel punktet mit grossen progressiven Jackpots, einer lebendigen Event‑Agenda und klaren Specials, die das Erlebnis auf dem Spiel‑ und Gastro‑Floor verstärken – ganz ohne klassische «Karten‑Loyalität». Herzstück ist der Swiss Jackpot, ein progressiver Pool über mehrere Schweizer Casinos, der schon ab 1 CHF ausgelöst werden kann; in Basel sind rund zehn Automaten angebunden. \nNeben dem Spielbetrieb laufen regelmässig Themenabende, Shows und Dinner‑Formate; der Events‑\/Voucher‑Shop bietet «Casino Experiences», die sich ideal mit einem Besuch im Hangar9 kombinieren lassen. \nAuf der Turnierseite setzte 2025 die Swiss Poker Series einen markanten Akzent: strukturierte Buy‑ins und Side Events sorgen für Spielwert plus Community‑Feeling und Abendunterhaltung. \nDauerhafte Vorteile bleiben Gratiseintritt und kostenlose Parkplätze, und Gewinne sind vor Ort als tax‑free profits ausgewiesen – ideal für das spontane Weekend. \nFür Einsteiger gibt es ein kurzes Blackjack‑Intro täglich um 18:30; zugleich sorgen «sanfte» Abendformate für einen Einstieg ohne Hektik. \nAm Wochenende kommt zusätzlich Nachtpuls via «Crazy Weekend Games» (abends), sodass Freitag\/Samstag die dichtesten Entertainment‑Tage sind. \nUnd als Zahlen‑Referenz: Die Online‑Marke Golden Grand (Betreiber Grand Casino Basel) bot historisch bis CHF 900 Willkommensbonus und CHF 30 No‑Deposit; der Online‑Service wurde am 31.07.2025 eingestellt – die Werte zeigen den Bonus‑Massstab der Betreiberin.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nJackpots & Gewinnstories\n<\/h4>\n\n <ul>\n            <li>• \nSwiss Jackpot – ab 1 CHF bis in Millionen: progressiver Pool über die Casinokette; im Grand Casino Basel sind ~10 Slots angeschlossen, und der höchste historische Einzelgewinn lag bei ~5,6 Mio. CHF (Statistik «16 Millionäre in zwölf Jahren»).\n<\/li>\n            <li>• \nMultilevel\/progressive Jackpots an Slots: Ausschüttung via Bonus‑Trigger\/Progress; aktuelle Summen werden im Spielbereich angezeigt.\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTurniere & spezielle Spielwochen\n\n\n<\/h4>\n\n <ul>\n            <li>• \nSwiss Poker Series (SPS): Main Event 440+60 CHF, High Roller 900+100 CHF, Flash‑Qualifier 50 CHF, dazu PKO‑\/6‑max‑\/PLO‑Formate und «Night on Stars». Der Preispool bildet sich aus den Buy‑ins; Zeitplan und Struktur sind offiziell bestätigt.\n<\/li>\n            <li>• \n«Crazy Weekend Games»: zusätzliche Nachtaction ab 19:00 Fr\/Sa (gemäss Casino‑\/Portal‑Hinweisen).\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nEinführung & «Soft‑Start»\n\n\n<\/h4>\n\n <ul>\n            <li>• \nBlackjack‑Intro: täglich 18:30, 30 Minuten für Beginner; Mindest‑Einsätze an Tischen ab 5–10 CHF (je nach Tisch).\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nEntertainment & saisonale Events\n\n\n<\/h4>\n\n <ul>\n            <li>• \nPartys, Shows, Dinner, «Night of Magic», Konzerte: Saison‑Kalender und Online‑Ticketing via Events\/Shop; Dinner & Casino als Kombi‑Pakete.\n<\/li>\n            <li>• \nHangar9 Lunch‑Deal: Mittagsmenü ~CHF 20 (Vorspeise + Hauptgang + Dessert + Getränk) – ideal vor Abendspiel\/Show.\n<\/li>\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nDauerhafte «Null‑Kosten» Vorteile\n\n\n<\/h4>\n\n <ul>\n            <li>• \nEintritt: 0 CHF + Parkieren: 0 CHF (offiziell), Gewinne vor Ort als tax‑free kommuniziert.\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nHistorische Online‑Bonus‑Referenz\n<\/h4>\n\n <ul>\n            <li>• \nGolden Grand (geschlossen am 31.07.2025): CHF 30 No‑Deposit, danach bis CHF 900 gesamt (100% bis CHF 300 – 1.\/3. Einzahlung; 50% bis CHF 300 – 2. Einzahlung; Wager 35×, Frist 30 Tage). Gut als Massstab für Bonus‑Grössenordnungen.\n<\/li>\n\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBeliebte Spiele im Grand Casino Basel: von Roulette bis Swiss Jackpot\n<\/h3>\n\n<p>\nIm Grand Casino Basel finden Sie die beliebtesten Spiele eines europäischen Hauses: klassische Roulette‑Tische, Blackjack, Ultimate Texas Hold’em, eine breite Slot‑Auswahl sowie elektronische Multiroulette.  Die Live‑Tische laufen täglich am Abend (Start ca. ab 16:00), die Slots sind bereits morgens offen – ideal für Tages‑ und Nachtspieler.  Für Tischliebhaber gibt es vertraute Formate mit moderaten Mindesteinsätzen; wer Tempo mag, wechselt zu Video‑Slots oder Video‑Poker.  Der Slotbereich umfasst deutlich über 300 Maschinen und wird von Jackpot‑Systemen ergänzt – von progressiv bis mehrstufig.  Ein besonderes Highlight ist der Swiss Jackpot: aktivierbar bereits ab 1 CHF Einsatz, mit angebundenen Slots direkt in Basel – die Chance auf den grossen Treffer steht jeden Abend.  Ein Teil der Multiroulette‑Terminals liegt in einem separaten Raucherbereich, praktisch für kurze Pausen.  Insgesamt entsteht ein «klassisch + modern»‑Mix: Live‑Erlebnis mit Croupier und dynamische Slots mit schnellen Bets, verfügbar an sieben Tagen pro Woche.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nKurzbeschreibungen der populären Spiele\n\n\n<\/h4>\n\n <ul>\n            <li>• \nAmerikanisches Roulette – Königsspiel des Casinos: Einsätze auf Zahlen\/Sektionen, ein Spin des Rades, klare Mathematik und viel Spannung; täglich am Abend auf Live‑Tischen.\n<\/li>\n            <li>• \nBlackjack – «21» in Reinform: einfache Regeln, Strategie‑Tiefe, kurzer Takt der Deals; an mehreren Tischen verfügbar.\n<\/li>\n            <li>• \nUltimate Texas Hold’em – Poker gegen das Haus: Ante\/Blind, Entscheidungen pro Street, Bonus‑Auszahlungen für starke Hände; ideal für Pokerfans ohne Cash‑Game.\n<\/li>\n            <li>• \nElektronische Multiroulette – Spiel an Terminals mit gemeinsamem Rad\/Generator: schneller Einsatzfluss, viele Plätze, teilweise im Raucherbereich.\n<\/li>\n\t    <li>• \nSlots – 300+ Maschinen: klassische Reels, Video‑Slots, Feature‑Games mit Free Spins; breite Auswahl an Themen und Herstellern.\n<\/li>\n\t    <li>• \nJackpots – Swiss Jackpot (ab 1 CHF) plus progressive\/mehrstufige Systeme; Beträge steigen mit jeder Wette, aktuelle Summen auf Saal‑Displays.\n<\/li>\n\t    <li>• \nVideo‑Poker – schnelles Duell mit der Maschine: Einsatz, Draw\/Hold, Kombinationswertung; ideal für kurze Sessions.\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMinimale und maximale Einsätze im Grand Casino Basel\n<\/h3>\n\n\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#B21754; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Spiel<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Minimaler Einsatz<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Maximaler Einsatz<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Slots (Video\/Klassik)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">ab 0.01 CHF pro Spin <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">Am Slot‑Bildschirm ausgewiesen <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">American Roulette (Live)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">5 CHF; an einigen Tischen 10 CHF<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">Nach Tischlimit (Tafel am Rad)<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack (Live) <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">5–10 CHF (je Tisch) <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">Nach Tischlimit<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Ultimate Texas Hold’em (Live)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">5 CHF (Ante\/Blind)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> Nach Tischlimit und Setzstruktur<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Elektronische Multiroulette<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">Am Terminal angezeigt<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">Am Terminal angezeigt<\/td>\n                <\/tr>\n         <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Video‑Poker (Automaten)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">Am Bildschirm angezeigt<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">Am Bildschirm angezeigt<\/td>\n                <\/tr>\n            <\/tbody>\n        <\/table><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nEvents, Partys und Nightlife im Grand Casino Basel\n<\/h3>\n\n<p>\nDas Grand Casino Basel ist weit mehr als Spielbetrieb: Die Location bespielt eine vielseitige Event‑Agenda mit Partys, Dinner‑Shows, Night of Magic, Konzerten und Themenabenden; Herzstück der Nacht ist der hauseigene Metro Club im Gebäude. Tickets und «Casino Experiences» sind im offiziellen Online‑Shop erhältlich – ideal für Weekend‑Trips und Firmenanlässe.\n<\/p>\n<br>\n\n<p>\nDie regelmässige Unterhaltung wird durch zwei Bars und die Küche von Hangar9 getragen: ein Bar bei den Tischen (1. OG) und ein Bar in der Slot‑Zone (‑2), dazu warme Küche durchgehend ab Mittag. Mit langen Öffnungszeiten (Slots ab 10:00, Live‑Tische ab 16:00) bleibt genug Spielraum für Abend‑ und Nachtprogramme; die Event‑Seite liefert jeweils die aktuelle Agenda.\n<\/p>\n<br>\n<p>\nBei Special Events reicht das Spektrum von Dinner‑Shows und Magie bis zu Sportformaten: Mehrfach fanden Hard Fighting Championship (HFC)‑Events im Casino statt und ergänzten Konzerte sowie Clubnächte. Ein zentraler Kalender und Online‑Ticketing sorgen für einfache Planung.\n<\/p>\n<br>\n<p>\nFür «fertige Erlebnisse» bieten Gutscheine & Pakete klare Optionen: Dinner & Casino, Queen’s Night, King’s Night, Cocktail Workshop, Fondueplausch sowie Wertgutscheine für Hangar9 – alles online bestellbar (E‑GUMA). So lassen sich Kulinarik und Abendunterhaltung mit wenigen Klicks kombinieren.\n<\/p>\n<br>\n<p>\nVor dem Besuch lohnt sich ein Blick in die Agenda: Clubnächte, Shows und Konzerte werden frühzeitig publiziert und können saisonal variieren; Tickets und Kombi‑Pakete sind im Shop verfügbar.\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAlle Unterhaltungspunkte\n<\/h4>\n\n <ul>\n            <li>• \nMetro Club (Nightclub) — Resident‑ und Themenpartys im Haus; Tanzfläche und Barservice unter einem Dach.\n<\/li>\n            <li>• \nDinner & Casino — Paket aus Hangar9‑Dinner + Spieleabend; ideal für Paare\/Freunde\/Teams.\n\n<\/li>\n            <li>• \nQueen’s Night \/ King’s Night — «Abend aus einer Hand» mit Drinks\/Menü und Casino‑Part; beliebt als Geschenk.\n\n<\/li>\n            <li>• \nNight of Magic — Magie‑Show mit Kulinarik und Bar; familienfreundlich.\n<\/li>\n\t    <li>• \nKonzerte & Dinner‑Shows — Live‑Music plus Küche; Ticketing online.\n<\/li>\n\t    <li>• \nComedy Nights — Stand‑up\/Comedy im Clubsetting.\n<\/li>\n\t    <li>• \nHFC (MMA) — Kampfsport‑Cards, die im Casino durchgeführt wurden.\n<\/li>\n\t    <li>• \nCocktail Workshop — Mixology‑Class mit Verkostung; perfekte Ergänzung zum Spieleabend.\n\n<\/li>\n\t    <li>• \nFondueplausch — saisonales Fondue‑Erlebnis in Hangar9; Winter‑Highlight.\n\n<\/li>\n\t    <li>• \nHangar9 Wertgutscheine — Wertgutscheine für das Restaurant; kombinierbar mit Event‑Tickets.\n\n<\/li>\n\t    <li>• \nBars (2 Standorte) — Cocktails, Snacks, Kaffee; gute Pausenoption zwischen Tanz und Spiel.\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBars, Restaurant, Hotel & Erholung im Grand Casino Basel\n<\/h3>\n\n<p>\nIm Grand Casino Basel bildet die Kulinarik & Bar‑Infrastruktur den entspannten Rahmen rund um den Spielbetrieb: Zwei Casino Bars versorgen Sie mit Cocktails, Kaffee sowie warmen\/kalten Snacks – eine Bar liegt bei den Live‑Tischen im ersten Obergeschoss, die zweite in der Slot‑Zone auf Ebene ‑2. So wechseln Sie nahtlos zwischen Spiel und Pause, während die langen Öffnungszeiten den Abend‑ und Nachtmodus unterstützen.\n<\/p>\n<br>\n\n<p>\nDas kulinarische Herzstück ist Hangar9 mit durchgehend warmer Küche ab 12:00 und internationaler Speisekarte. An Wochenenden sind die Öffnungszeiten bis spät verlängert – ideal, um Dinner mit dem Casinobesuch oder einem Clubabend zu kombinieren. Die Restaurant‑Website führt Wochenhits und Sondermenüs; der Basel‑Tourismus hebt Hangar9 als Teil des Gesamt‑Erlebnisses im Casino hervor.\n<\/p>\n<br>\n<p>\nFür Übernachtungen empfiehlt sich das Airport Hotel Basel, direkt mit dem Casino verbunden: kurzer Innenweg, «365 Tage»‑Betrieb und perfekte Lage nahe EuroAirport sowie Autobahnen\/ÖV. Das vereinfacht die Planung für Weekend‑Trips, späte Spielnächte oder Event‑Teilnahmen.\n<\/p>\n<br>\n<p>\nZusätzliche Vorteile wie Gratis‑Eintritt und kostenlose Parkplätze direkt am Haus senken die Nebenkosten und machen die Kombination aus Dinner, Spiel und Nachtprogramm besonders unkompliziert. Wer einen Abend «aus einer Hand» buchen oder verschenken möchte, nutzt den Online‑Shop mit Gutscheinen und Paketen (Dinner & Casino, Queen’s\/King’s Night, Cocktail Workshop, Fondueplausch).\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAlle Erholungsorte im Komplex\n<\/h4>\n\n <ul>\n            <li>• \nCasino Bar (Live‑Tische, 1. OG) — Cocktails, Kaffee, Snacks; perfekt für Pausen zwischen Roulette\/Blackjack.\n<\/li>\n            <li>• \nCasino Bar (Slot‑Zone, Ebene ‑2) — Drinks und Snacks in unmittelbarer Nähe zu den Automaten; ideal für kurze Breaks.\n<\/li>\n            <li>• \nRestaurant Hangar9 — internationale Küche, durchgehend ab 12:00, verlängerte Weekend‑Zeiten; Specials & Gastro‑Events.\n<\/li>\n            <li>• \nAirport Hotel Basel — Hotel direkt verbunden mit dem Casino; 5 Minuten zum EuroAirport, schnelle Anreise via Autobahnen\/ÖV.\n<\/li>\n\t    <li>• \nGutscheine & Pakete (Online‑Shop) — fertige Kombis «Dinner + Casino» und Themenabende; ideal als Geschenk oder Firmenevent.\n<\/li>\n        <\/ul><br>\n"
+            }
+        },
+        "faq": {
+            "title": "FAQ",
+            "items": [
+                {
+                    "title": "Welche Ausweise werden am Eingang akzeptiert (Alterskontrolle)?",
+                    "answer": "Zutritt ab 18 Jahren. Akzeptiert werden Pässe, Identitätskarten, schweizerische ID (ohne F, N, S) sowie Führerausweise. Ohne gültigen Ausweis kein Eintritt."
+                },
+                {
+                    "title": "Welche Zahlungsmittel gelten vor Ort und bei Turnier‑Buy‑ins?",
+                    "answer": "Im Casino werden Bargeld und Karten (Kredit\/EC\/Maestro) akzeptiert, wie Basel Tourismus bestätigt. Bei Poker‑Events (z. B. Swiss Poker Series) keine Karten direkt am Registrationsdesk: zuerst Chips an der Kasse kaufen und dann registrieren; Buy‑ins erfolgen in CHF."
+                },
+                {
+                    "title": "Kann ich mit Euro bezahlen?",
+                    "answer": "Gespielt wird grundsätzlich in CHF; für Turniere lässt sich EUR → CHF direkt an der Casinokasse wechseln. Für den regulären Besuch empfiehlt sich CHF; Wechselmöglichkeiten gibt es in der Stadt und an Verkehrs‑Knotenpunkten."
+                },
+                {
+                    "title": "Sind Gewinne steuerfrei?",
+                    "answer": "Auf der Casino‑Website heisst es ausdrücklich tax‑free profits (steuerfreie Gewinne). Auszahlungen erfolgen in CHF."
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1106",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Grand Casino Basel"
+        }
+    },
+    "langs": [
+        {
+            "code": "de-CH",
+            "name": "Немецкий",
+            "isDefault": true
+        }
+    ]
+}
